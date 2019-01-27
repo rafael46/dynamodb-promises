@@ -1,0 +1,15 @@
+references
+
+How to get AWS SDK for Node.js to return Promises to use with async/await functions
+https://techsparx.com/software-development/aws/aws-sdk-promises.html
+
+
+
+endpoints:
+  POST - https://wgdxqyt55l.execute-api.us-east-1.amazonaws.com/dev/post
+  GET - https://wgdxqyt55l.execute-api.us-east-1.amazonaws.com/dev/fetch
+functions:
+  post: aws-nodejs-promise-dev-post
+  fetch: aws-nodejs-promise-dev-fetch
+
+  
