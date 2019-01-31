@@ -3,6 +3,7 @@ references
 How to get AWS SDK for Node.js to return Promises to use with async/await functions
 https://techsparx.com/software-development/aws/aws-sdk-promises.html
 
+Support for Promises in the SDK
 
 
 endpoints:
@@ -12,4 +13,9 @@ functions:
   post: aws-nodejs-promise-dev-post
   fetch: aws-nodejs-promise-dev-fetch
 
-  
+  echo "# dynamodb-promises" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rafael46/dynamodb-promises.git
+git push -u origin master
